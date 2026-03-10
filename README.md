@@ -6,6 +6,9 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-v4+-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange.svg)
 
+[![Open in GitHub Desktop](https://img.shields.io/badge/Open%20in-GitHub%20Desktop-563D7C?style=for-the-badge&logo=github)](https://desktop.github.com/open-in-desktop?repo=Umar017work/Attention-Seeker)
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://vscode.git/clone?url=https://github.com/Umar017work/Attention-Seeker)
+
 ---
 
 ## ✨ Features
