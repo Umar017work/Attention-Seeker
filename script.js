@@ -24,7 +24,7 @@ async function initializeFaceLandmarker() {
     statusText.innerText = "⏳ Loading AI Models...";
     try {
         const vision = await FilesetResolver.forVisionTasks(
-            "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.3/wasm"
+            "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision/wasm"
         );
         faceLandmarker = await FaceLandmarker.createFromOptions(vision, {
             baseOptions: {
