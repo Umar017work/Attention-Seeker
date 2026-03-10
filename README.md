@@ -6,6 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-v4+-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange.svg)
 
+[![Open Web App](https://img.shields.io/badge/Open%20Web%20App-Success?style=for-the-badge&logo=googlechrome)](https://Umar017work.github.io/Attention-Seeker/)
 [![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://vscode.dev/github/Umar017work/Attention-Seeker)
 [![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-181717?style=for-the-badge&logo=github)](https://codespaces.new/Umar017work/Attention-Seeker)
 
