@@ -1,4 +1,4 @@
-const { FaceLandmarker, FilesetResolver } = window; // from mediapipe vision
+import { FaceLandmarker, FilesetResolver } from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision/vision_bundle.mjs";
 
 const video = document.getElementById("webcam");
 const alertVideo = document.getElementById("alert-video");
